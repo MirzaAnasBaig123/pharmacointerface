@@ -1,0 +1,25 @@
+2024/02/25-22:01:54.933 2bfc Reusing MANIFEST C:\Users\Anas\AppData\Local\Temp\flutter_tools.6bc97fa1\flutter_tools_chrome_device.754ee49\Default\IndexedDB\https_www.dvago.pk_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/25-22:01:54.933 2bfc Recovering log #12
+2024/02/25-22:01:54.934 2bfc Reusing old log C:\Users\Anas\AppData\Local\Temp\flutter_tools.6bc97fa1\flutter_tools_chrome_device.754ee49\Default\IndexedDB\https_www.dvago.pk_0.indexeddb.leveldb/000012.log 
+2024/02/25-22:01:54.934 2bfc Delete type=2 #11
+2024/02/25-22:01:55.104 305c Level-0 table #17: started
+2024/02/25-22:01:55.227 305c Level-0 table #17: 636 bytes OK
+2024/02/25-22:01:55.270 305c Delete type=0 #12
+2024/02/25-22:01:55.271 305c Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 135 : 1
+2024/02/25-22:01:55.294 305c Compacting 1@0 + 1@1 files
+2024/02/25-22:01:55.347 305c Generated table #18@0: 43 keys, 1242 bytes
+2024/02/25-22:01:55.348 305c Compacted 1@0 + 1@1 files => 1242 bytes
+2024/02/25-22:01:55.385 305c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/25-22:01:55.386 305c Delete type=2 #17
+2024/02/25-22:01:55.386 2bfc Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 135 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/25-22:01:55.387 2bfc Level-0 table #20: started
+2024/02/25-22:01:55.438 2bfc Level-0 table #20: 661 bytes OK
+2024/02/25-22:01:55.531 2bfc Delete type=2 #14
+2024/02/25-22:01:55.531 2bfc Delete type=0 #16
+2024/02/25-22:01:55.532 2bfc Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 152 : 1
+2024/02/25-22:01:55.532 2bfc Compacting 1@0 + 1@1 files
+2024/02/25-22:01:55.708 2bfc Generated table #21@0: 43 keys, 1235 bytes
+2024/02/25-22:01:55.708 2bfc Compacted 1@0 + 1@1 files => 1235 bytes
+2024/02/25-22:01:55.757 2bfc compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/25-22:01:55.758 2bfc Delete type=2 #20
+2024/02/25-22:01:55.759 2bfc Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 152 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
